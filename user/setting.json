@@ -1,0 +1,4 @@
+{
+    // 文件栏在左侧
+    "workbench.sideBar.location": "left"
+}
